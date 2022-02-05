@@ -1,6 +1,6 @@
-# Hardhat Vue.js Starter Template
+# User Interface for Vue-based NFT Marketplace
 
-A starter template for Ethereum dApps that uses the following tools:
+Based on hardhat-vue-starter, with following dependencies:
 
 - Hardhat
 - Waffle
